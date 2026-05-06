@@ -1,0 +1,3 @@
+Nome	Disciplina	Nota
+Ana 	LP	10
+Ana	HIs]	9
